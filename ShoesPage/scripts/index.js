@@ -7,6 +7,8 @@ document.getElementById("footer").innerHTML = footer();
 import { navbar } from "../../components/navbar.js";
 document.getElementById("navbar").innerHTML = navbar()
 
+import { sidebar } from "../components/sidebar.js";
+document.getElementById("sidebar").innerHTML = sidebar()
 
 
 
