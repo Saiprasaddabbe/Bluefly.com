@@ -51,27 +51,27 @@
   align-items: center;
   /* align-items: center; */
 }
-#tabs > p:nth-child(1),
-p:nth-child(2),
-p:nth-child(3),
-p:nth-child(4),
-p:nth-child(5),
-p:nth-child(6),
-p:nth-child(7),
-p:nth-child(8) {
+#tabs > .tooltip:nth-child(1),
+.tooltip:nth-child(2),
+.tooltip:nth-child(3),
+.tooltip:nth-child(4),
+.tooltip:nth-child(5),
+.tooltip:nth-child(6),
+.tooltip:nth-child(7),
+.tooltip:nth-child(8) {
   display: inline-block;
   position: relative;
   color: #000000;
 }
 
-#tabs > p:nth-child(1):after,
-p:nth-child(2):after,
-p:nth-child(3):after,
-p:nth-child(4):after,
-p:nth-child(5):after,
-p:nth-child(6):after,
-p:nth-child(7):after,
-p:nth-child(8):after {
+#tabs > .tooltip:nth-child(1):after,
+.tooltip:nth-child(2):after,
+.tooltip:nth-child(3):after,
+.tooltip:nth-child(4):after,
+.tooltip:nth-child(5):after,
+.tooltip:nth-child(6):after,
+.tooltip:nth-child(7):after,
+.tooltip:nth-child(8):after {
   content: "";
   position: absolute;
   width: 100%;
@@ -84,14 +84,14 @@ p:nth-child(8):after {
   transition: transform 0.25s ease-out;
 }
 
-#tabs > p:nth-child(1):hover:after,
-p:nth-child(2):hover:after,
-p:nth-child(3):hover:after,
-p:nth-child(4):hover:after,
-p:nth-child(5):hover:after,
-p:nth-child(6):hover:after,
-p:nth-child(7):hover:after,
-p:nth-child(8):hover:after {
+#tabs > .tooltip:nth-child(1):hover:after,
+.tooltip:nth-child(2):hover:after,
+.tooltip:nth-child(3):hover:after,
+.tooltip:nth-child(4):hover:after,
+.tooltip:nth-child(5):hover:after,
+.tooltip:nth-child(6):hover:after,
+.tooltip:nth-child(7):hover:after,
+.tooltip:nth-child(8):hover:after {
   transform: scaleX(1);
   transform-origin: bottom left;
 }
@@ -124,7 +124,7 @@ input[type="text"]:focus {
 
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
+  /* width: 100px; */
   background-color: #ffffff;
   color: #0f0f0f;
   text-align: center;
@@ -136,7 +136,7 @@ input[type="text"]:focus {
   z-index: 1;
   top: 100%;
   left: 50%;
-  margin-left: -60px;
+  margin-left: -40px;
 }
 
 .tooltip:hover .tooltiptext {
