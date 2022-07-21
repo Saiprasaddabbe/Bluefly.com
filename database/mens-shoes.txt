@@ -1,0 +1,794 @@
+[
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103898749-rxe6?id=6760023359620",
+    "label": "Save 33%",
+    "title": "PARIGI DRIVING SHOES",
+    "brand": "Salvatore Ferragamo",
+    "price": "$481.94",
+    "discounted-price": "$714"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-101631792-yh6b?id=6562749022340",
+    "label": "Save 9%",
+    "title": "Gucci Interlocking G Tassel Leather Loafer",
+    "brand": "Gucci",
+    "price": "$799.99",
+    "discounted-price": "$880"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104877302-2zak?id=6874954432644",
+    "label": "Save 37%",
+    "title": "Salvatore Ferragamo Bleeker Patent Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$561.99",
+    "discounted-price": "$895"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-100943482-ip7p?id=5136276291716",
+    "label": "Save 23%",
+    "title": "Gucci Men's Moccasin Suede Horsebit Loafer 337060 BHO00",
+    "brand": "Gucci",
+    "price": "$500.00",
+    "discounted-price": "$650"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103321725-301k?id=6668943097988",
+    "label": "Save 39%",
+    "title": "Tods Gommini Leather Driver",
+    "brand": "Tod's",
+    "price": "$299.99",
+    "discounted-price": "$495"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103417803-jgcu?id=6683494252676",
+    "label": "Save 23%",
+    "title": "Christian Louboutin Dandelion Spikes Suede Loafer",
+    "brand": "Christian Louboutin",
+    "price": "$999.99",
+    "discounted-price": "$1295"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104487884-3pxo?id=6827179114628",
+    "label": "Save 40%",
+    "title": "Antonio Maurizi Tassel Suede Loafer",
+    "brand": "Antonio Maurizi",
+    "price": "$279.99",
+    "discounted-price": "$465"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104151984-8nuv?id=6792618868868",
+    "label": "Save 9%",
+    "title": "Gucci Interlocking G Tassel Leather Loafer",
+    "brand": "Gucci",
+    "price": "$799.99",
+    "discounted-price": "$880"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104815269-1vaw?id=6862808318084",
+    "label": "Save 26%",
+    "title": "Gucci Gg Supreme Canvas & Leather Loafer",
+    "brand": "Gucci",
+    "price": "$653.99",
+    "discounted-price": "$880"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-101956179-ol2s?id=6581059453060",
+    "label": "Save 54%",
+    "title": "Gucci Men's Cover Diamante Pattern Black Rubber Overshoe 390170 1000",
+    "brand": "Gucci",
+    "price": "$180.00",
+    "discounted-price": "$395"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102974517-tdmv?id=6628211818628",
+    "label": "Save 44%",
+    "title": "Jimmy Choo Slip On Men Suede Black",
+    "brand": "Jimmy Choo",
+    "price": "$401.82",
+    "discounted-price": "$714"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103257490-0s55?id=6660526833796",
+    "label": "Save 29%",
+    "title": "Gucci Men's Interlocking GG Fringe Leather Loafer Mocassin Brown",
+    "brand": "Gucci",
+    "price": "$604.99",
+    "discounted-price": "$849"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103956912-5u19?id=6764732317828",
+    "label": "Save 28%",
+    "title": "Salvatore Ferragamo Shepard 2 Leather Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$539.99",
+    "discounted-price": "$750"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104171070-9ni7?id=6793788620932",
+    "label": "Save 26%",
+    "title": "Gucci Interlocking G Tassel Leather Loafer",
+    "brand": "Gucci",
+    "price": "$647.99",
+    "discounted-price": "$880"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104230341-7b8e?id=6802503204996",
+    "label": "Save 62%",
+    "title": "Antonio Maurizi Bit Leather Loafer",
+    "brand": "Antonio Maurizi",
+    "price": "$187.99",
+    "discounted-price": "$495"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104418299-y76q?id=6829472743556",
+    "label": "Save 39%",
+    "title": "Tanta Italia Rope Leather Driver",
+    "brand": "Tanta Italia",
+    "price": "$179.99",
+    "discounted-price": "$295"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104572027-wc07?id=6842988101764",
+    "label": "Save 48%",
+    "title": "Ram Mens Leather Tassel Tassel Loafers",
+    "brand": "Steve Madden",
+    "price": "$67.99",
+    "discounted-price": "$129"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104454097-eds3?id=6825084551300",
+    "label": "Save 15%",
+    "title": "Christian Louboutin Paquepapa Suede Espadrille",
+    "brand": "Christian Louboutin",
+    "price": "$549.99",
+    "discounted-price": "$650"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104711869-tnwo?id=6850060255364",
+    "label": "Save 58%",
+    "title": "Ario Mens Tassel Slip-On Tassel Loafers",
+    "brand": "Donald J. Pliner",
+    "price": "$164.99",
+    "discounted-price": "$395"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104490500-z068?id=6828998951044",
+    "label": "Save 46%",
+    "title": "Atticus Edge Mens Leather Slip On Loafers",
+    "brand": "Clarks",
+    "price": "$66.99",
+    "discounted-price": "$125"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-105086156-0evz?id=6896491921540",
+    "label": "Save 59%",
+    "title": "Donald Pliner Suede Loafer",
+    "brand": "Donald Pliner",
+    "price": "$118.99",
+    "discounted-price": "$288"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-100576192-f97g?id=5085647306884",
+    "label": "Save 33%",
+    "title": "GUCCI Brown GG Embroidered Skull Loafers",
+    "brand": "Gucci",
+    "price": "$593.00",
+    "discounted-price": "$890"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104187924-k8cy?id=6795763810436",
+    "label": "Save 22%",
+    "title": "Baguette rubber slides",
+    "brand": "Fendi",
+    "price": "$365.53",
+    "discounted-price": "$467"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102405348-n6md?id=6611176620164",
+    "label": "Save 58%",
+    "title": "Tods Gommini Leather Driver",
+    "brand": "Tod's",
+    "price": "$205.99",
+    "discounted-price": "$495"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103241183-8p11?id=6658349793412",
+    "label": "Save 63%",
+    "title": "Dolce & Gabbana Gold Jacquard Flats Mens Loafers Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$323.00",
+    "discounted-price": "$874"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103159942-vv1x?id=6647301505156",
+    "label": "Save 41%",
+    "title": "LOEWE Fringed High Top Slip-On",
+    "brand": "Loewe",
+    "price": "$327.25",
+    "discounted-price": "$550"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104239339-f4so?id=6806193963140",
+    "label": "Save 53%",
+    "title": "Chantry Penny Mens Leather Slip On Penny Loafers",
+    "brand": "Clarks",
+    "price": "$60.99",
+    "discounted-price": ""
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104203893-rdu1?id=6799338438788",
+    "label": "Save 60%",
+    "title": "Antonio Maurizi Bit Leather Loafer",
+    "brand": "Antonio Maurizi",
+    "price": "$187.99",
+    "discounted-price": "$465"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-101193552-2z7x?id=5141347958916",
+    "label": "Save 20%",
+    "title": "Gucci Princetown Leather Slipper",
+    "brand": "Gucci",
+    "price": "$797.99",
+    "discounted-price": "$995"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103475691-d0nu?id=6708497383556",
+    "label": "Save 19%",
+    "title": "Salvatore Ferragamo Gancini Leather Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$669.99",
+    "discounted-price": "$830"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103490214-9wqu?id=6708153942148",
+    "label": "Save 36%",
+    "title": "Salvatore Ferragamo Parigi Eco Suede Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$422.99",
+    "discounted-price": "$660"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104569076-cp5z?id=6841877528708",
+    "label": "Save 31%",
+    "title": "Gucci Suede Gg Driver",
+    "brand": "Gucci",
+    "price": "$441.99",
+    "discounted-price": "$640"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104569404-inc6?id=6841849675908",
+    "label": "Save 28%",
+    "title": "Gucci L'aveugle Par Amour Leather Loafer",
+    "brand": "Gucci",
+    "price": "$617.99",
+    "discounted-price": "$860"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103956364-nmyj?id=6764724256900",
+    "label": "Save 32%",
+    "title": "Valentino Vltn Canvas Espadrille",
+    "brand": "Valentino",
+    "price": "$371.99",
+    "discounted-price": "$550"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-101337178-graq?id=6538733584516",
+    "label": "Save 66%",
+    "title": "ERMENEGILDO ZEGNA Green 'Morris New Driver' Shoes",
+    "brand": "Ermenegildo Zegna",
+    "price": "$202.00",
+    "discounted-price": "$595"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104856385-f9jl?id=6890581295236",
+    "label": "Save 73%",
+    "title": "Balenciaga Balenciaga Dipping-Effect High-Top Sneakers In Black Leather -Pre Owned Condition Good",
+    "brand": "Balenciaga",
+    "price": "$272.00",
+    "discounted-price": "$1018"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103474821-v8n3?id=6708527497348",
+    "label": "Save 23%",
+    "title": "Salvatore Ferragamo Chris Leather Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$579.99",
+    "discounted-price": "$750"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104567966-tx70?id=6841910788228",
+    "label": "Save 18%",
+    "title": "Gucci Stamp Print Leather Loafer",
+    "brand": "Gucci",
+    "price": "$936.99",
+    "discounted-price": "$1140"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104661261-53j5?id=6842545143940",
+    "label": "Save 33%",
+    "title": "Leather slides with logo",
+    "brand": "Dolce & Gabbana",
+    "price": "$522.31",
+    "discounted-price": ""
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104661364-ulr3?id=6842536820868",
+    "label": "Save 22%",
+    "title": "Leather slides with logo",
+    "brand": "Fendi",
+    "price": "$653.12",
+    "discounted-price": "$834"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104663677-f9ka?id=6842457489540",
+    "label": "Save 35%",
+    "title": "SNEAKERS",
+    "brand": "Maison Margiela",
+    "price": "$327.20",
+    "discounted-price": "$504"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104814764-4upt?id=6862812119172",
+    "label": "Save 36%",
+    "title": "Salvatore Ferragamo Peter Suede Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$479.99",
+    "discounted-price": ""
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104820583-fcqn?id=6862494630020",
+    "label": "Save 57%",
+    "title": "Leisure Mens Suede Slip On Loafers",
+    "brand": "Ermenegildo Zegna",
+    "price": "$299.99",
+    "discounted-price": "$695"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102103873-vf5q?id=6600105984132",
+    "label": "Save 65%",
+    "title": "Blue Gold Velvet Brocade Loafers Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$395.00",
+    "discounted-price": "$1127"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-105085741-nqzi?id=6896497754244",
+    "label": "Save 60%",
+    "title": "Donald Pliner Soft Tumble Leather Loafer",
+    "brand": "Donald Pliner",
+    "price": "$114.99",
+    "discounted-price": "$288"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-100952458-ys1s?id=5136225992836",
+    "label": "Save 65%",
+    "title": "Dolce & Gabbana Gray Leather Flat Caiman Mens Loafers Men's Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$865.00",
+    "discounted-price": "$2439"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103666731-g5an?id=6726634176644",
+    "label": "Save 35%",
+    "title": "Salvatore Ferragamo Leather Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$449.99",
+    "discounted-price": "$695"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-105114321-qpjz?id=6902940434564",
+    "label": "Save 15%",
+    "title": "Kenzo K-Skate Tiger Canvas Slip-On Sneaker",
+    "brand": "Kenzo",
+    "price": "$219.99",
+    "discounted-price": "$260"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-100943758-ef8d?id=5136268591236",
+    "label": "",
+    "title": "Gucci Men's Bloom Flower Print Supreme GG Green Canvas Slip Sneakers 407362 8961",
+    "brand": "Gucci",
+    "price": "$620.00",
+    "discounted-price": ""
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-100944307-wyfa?id=5136254042244",
+    "label": "",
+    "title": "Alexander McQueen Men's Silver Skull Black Leather Loafer 389537",
+    "brand": "Alexander McQueen",
+    "price": "$515.00",
+    "discounted-price": ""
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-100967322-n774?id=5136191717508",
+    "label": "Save 41%",
+    "title": "Salvatore Ferragamo Men's Celso Dark Blue Suede Stretch Horsebit Loafer 0689525",
+    "brand": "Salvatore Ferragamo",
+    "price": "$470.00",
+    "discounted-price": "$795"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-101546895-frgo?id=6553725108356",
+    "label": "Save 59%",
+    "title": "Borcelo Mens Leather Slip On Loafers",
+    "brand": "Vince Camuto",
+    "price": "$78.99",
+    "discounted-price": "$195"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102422213-u1yq?id=6638961033348",
+    "label": "Save 32%",
+    "title": "Duca Di Morrone Ascanio-Cam Blue Mens  Moccasins",
+    "brand": "Duca Di Morrone",
+    "price": "$75.00",
+    "discounted-price": "$110"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102104071-oacb?id=6600053424260",
+    "label": "Save 69%",
+    "title": "Dolce & Gabbana Gray Leather Flat Caiman Mens Loafers Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$812.00",
+    "discounted-price": "$2657"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103868206-sxat?id=6755643129988",
+    "label": "Save 46%",
+    "title": "Tod's Suede Loafer",
+    "brand": "Tod's",
+    "price": "$239.99",
+    "discounted-price": "$445"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-100967276-ahlz?id=5136193323140",
+    "label": "Save 34%",
+    "title": "Salvatore Ferragamo Men's Parigi Dark Blue Crocodile Horsebit Loafer 448951",
+    "brand": "Salvatore Ferragamo",
+    "price": "$1,610.00",
+    "discounted-price": "$2450"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103241091-xv80?id=6658353987716",
+    "label": "Save 63%",
+    "title": "Dolce & Gabbana Black Velvet Gold Slipper Loafers Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$324.00",
+    "discounted-price": "$868"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102339954-gfmd?id=6606523400324",
+    "label": "Save 20%",
+    "title": "Salvatore Ferragamo Parigi Leather Driver",
+    "brand": "Salvatore Ferragamo",
+    "price": "$529.99",
+    "discounted-price": "$660"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-101020638-94ph?id=5128053883012",
+    "label": "Save 68%",
+    "title": "Sperry Men's Gold Cup Harpswell Driver Asv Leather Loafers & Slip-On",
+    "brand": "Sperry",
+    "price": "$53.31",
+    "discounted-price": ""
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-101020639-kmjm?id=5128041627780",
+    "label": "Save 73%",
+    "title": "Sperry Men's Gold Cup Exeter Penny Loafer Leather Loafers & Slip-On",
+    "brand": "Sperry",
+    "price": "$49.27",
+    "discounted-price": "$180"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103325730-bebg?id=6668898762884",
+    "label": "Save 33%",
+    "title": "Gucci Leather Driver",
+    "brand": "Gucci",
+    "price": "$445.99",
+    "discounted-price": "$670"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102419002-dyii?id=6638085144708",
+    "label": "Save 34%",
+    "title": "Toms 10014367 Black Mens  Slip-On",
+    "brand": "TOMS",
+    "price": "$61.00",
+    "discounted-price": "$93"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102422864-6af6?id=6638952185988",
+    "label": "Save 32%",
+    "title": "Duca Di Morrone Diego-Cam Brown Mens  Moccasins",
+    "brand": "Duca Di Morrone",
+    "price": "$75.00",
+    "discounted-price": "$110"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102561200-1zg3?id=6613196865668",
+    "label": "Save 43%",
+    "title": "Tods Leather Loafer",
+    "brand": "Tod's",
+    "price": "$499.99",
+    "discounted-price": "$875"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103549858-tags?id=6727289503876",
+    "label": "Save 31%",
+    "title": "Rubber slides",
+    "brand": "Prada",
+    "price": "$412.16",
+    "discounted-price": "$600"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-100967080-e1cr?id=5136197943428",
+    "label": "Save 31%",
+    "title": "Salvatore Ferragamo Men's Dark Red Finnegan Velvet Tassel Loafer 656327",
+    "brand": "Salvatore Ferragamo",
+    "price": "$470.00",
+    "discounted-price": "$685"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104412682-x9rq?id=6820552835204",
+    "label": "Save 27%",
+    "title": "Gucci Signature Leather Driver",
+    "brand": "Gucci",
+    "price": "$457.99",
+    "discounted-price": "$630"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103241201-1o5m?id=6658350350468",
+    "label": "Save 63%",
+    "title": "Dolce & Gabbana Black Velvet Flats Slipper Mens  Loafers Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$292.00",
+    "discounted-price": "$792"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103500454-nu8m?id=6709043396740",
+    "label": "Save 55%",
+    "title": "Giuseppe Zanotti Kevin Leather Loafer",
+    "brand": "Giuseppe Zanotti",
+    "price": "$399.99",
+    "discounted-price": "$895"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104212325-cpue?id=6798991982724",
+    "label": "Save 38%",
+    "title": "LEATHER NOLAM LOAFERS",
+    "brand": "Bally",
+    "price": "$469.07",
+    "discounted-price": "$756"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103368751-9z33?id=6675015270532",
+    "label": "Save 46%",
+    "title": "Tods Gommini Leather Driver",
+    "brand": "Tod's",
+    "price": "$239.99",
+    "discounted-price": "$445"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-105066782-lwx8?id=6896569483396",
+    "label": "Save 15%",
+    "title": "Gucci Jordaan Leather Loafer",
+    "brand": "Gucci",
+    "price": "$749.99",
+    "discounted-price": "$880"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102053110-kfth?id=6589488464004",
+    "label": "Save 83%",
+    "title": "Landry Mens Padded Insole Slip On Loafers",
+    "brand": "Donald J. Pliner",
+    "price": "$33.99",
+    "discounted-price": "$195"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104223708-cre7?id=6806412853380",
+    "label": "Save 36%",
+    "title": "Celine Chain Triomphe Leather Loafer",
+    "brand": "Celine",
+    "price": "$543.99",
+    "discounted-price": "$850"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104854537-07ne?id=6891001675908",
+    "label": "Save 72%",
+    "title": "Salvatore Ferragamo Salvatore Ferragamo Gancini Reversible Bit Loafers In Black Leather -Pre Owned Condition Good",
+    "brand": "Salvatore Ferragamo",
+    "price": "$305.00",
+    "discounted-price": "$1095"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102974513-8w0l?id=6628211785860",
+    "label": "Save 51%",
+    "title": "Jimmy Choo Slip On grove Men Suede Black",
+    "brand": "Jimmy Choo",
+    "price": "$350.85",
+    "discounted-price": "$714"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104243968-ac9m?id=6806334832772",
+    "label": "Save 24%",
+    "title": "Gucci Leather Driver",
+    "brand": "Gucci",
+    "price": "$509.99",
+    "discounted-price": "$670"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103868109-ykdy?id=6755645489284",
+    "label": "Save 59%",
+    "title": "Tods Gommini Velvet & Patent Loafer",
+    "brand": "Tod's",
+    "price": "$221.99",
+    "discounted-price": "$545"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104113739-m1kl?id=6790224576644",
+    "label": "Save 39%",
+    "title": "ESPADRILLAS",
+    "brand": "Versace",
+    "price": "$283.90",
+    "discounted-price": "$468"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103241206-kch6?id=6658349301892",
+    "label": "Save 63%",
+    "title": "Dolce & Gabbana Brown Leather Perforated Men Loafers Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$323.00",
+    "discounted-price": "$862"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103348931-owir?id=6675295371396",
+    "label": "Save 33%",
+    "title": "Tods Gommini Suede Driver",
+    "brand": "Tod's",
+    "price": "$299.99",
+    "discounted-price": "$445"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104010704-7vfw?id=6769563009156",
+    "label": "Save 33%",
+    "title": "PRINTED LEATHER GANCINI LOAFERS",
+    "brand": "Salvatore Ferragamo",
+    "price": "$555.36",
+    "discounted-price": "$834"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103501648-sbkr?id=6708995522692",
+    "label": "Save 72%",
+    "title": "Giuseppe Zanotti Bahrain Suede Loafer",
+    "brand": "Giuseppe Zanotti",
+    "price": "$334.99",
+    "discounted-price": "$1195"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104454133-2rzw?id=6825085075588",
+    "label": "Save 55%",
+    "title": "Giuseppe Zanotti Kevin Velour Loafer",
+    "brand": "Giuseppe Zanotti",
+    "price": "$359.99",
+    "discounted-price": "$795"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103441505-hqqk?id=6691067658372",
+    "label": "Save 53%",
+    "title": "Dolce & Gabbana Blue Suede Caiman Loafers Slippers Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$463.00",
+    "discounted-price": "$995"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103442854-1j5e?id=6691057827972",
+    "label": "Save 63%",
+    "title": "Dolce & Gabbana Beige Woven Suede Derby Leather Mens Shoes",
+    "brand": "Dolce & Gabbana",
+    "price": "$298.00",
+    "discounted-price": ""
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103847540-h86v?id=6750723506308",
+    "label": "Save 15%",
+    "title": "Gucci Interlocking G Leather Loafer",
+    "brand": "Gucci",
+    "price": "$807.99",
+    "discounted-price": "$950"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102695177-mq5n?id=6617229656196",
+    "label": "Save 58%",
+    "title": "Tod's Gommini Leather Driver",
+    "brand": "Tod's",
+    "price": "$205.99",
+    "discounted-price": "$495"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103474684-fzcw?id=6708534673540",
+    "label": "Save 28%",
+    "title": "Salvatore Ferragamo Gancini Leather Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$499.99",
+    "discounted-price": "$695"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104896185-fs6x?id=6877715628164",
+    "label": "Save 20%",
+    "title": "Christian Louboutin Paqueboat Suede Platform Sneaker",
+    "brand": "Christian Louboutin",
+    "price": "$799.99",
+    "discounted-price": "$995"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104378371-7deh?id=6820930060420",
+    "label": "Save 18%",
+    "title": "Gucci Horsebit Web Leather Loafer",
+    "brand": "Gucci",
+    "price": "$724.99",
+    "discounted-price": "$880"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103934391-nx01?id=6763831001220",
+    "label": "Save 65%",
+    "title": "Tod's Suede Loafer",
+    "brand": "Tod's",
+    "price": "$243.99",
+    "discounted-price": "$695"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103666252-ed0x?id=6726642663556",
+    "label": "Save 28%",
+    "title": "Salvatore Ferragamo Suede Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$489.99",
+    "discounted-price": "$680"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104569411-62tm?id=6841850265732",
+    "label": "Save 24%",
+    "title": "Gucci Interlocking G Horsebit Leather Loafer",
+    "brand": "Gucci",
+    "price": "$664.99",
+    "discounted-price": "$880"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-101337169-5tvl?id=6538733846660",
+    "label": "Save 43%",
+    "title": "BROOKS BROTHERS Black Cordovan Leather Dress Shoes",
+    "brand": "Brooks Brothers",
+    "price": "$418.00",
+    "discounted-price": "$728"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102419956-sxbj?id=6638110703748",
+    "label": "Save 32%",
+    "title": "Duca Di Morrone Diego-Cam Grey Mens  Moccasins",
+    "brand": "Duca Di Morrone",
+    "price": "$75.00",
+    "discounted-price": "$110"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-103666930-wmgx?id=6726631129220",
+    "label": "Save 40%",
+    "title": "Salvatore Ferragamo Suede Loafer",
+    "brand": "Salvatore Ferragamo",
+    "price": "$449.99",
+    "discounted-price": "$750"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-102405385-3e4l?id=6611176423556",
+    "label": "Save 58%",
+    "title": "Tods Gommini Leather Driver",
+    "brand": "Tod's",
+    "price": "$209.99",
+    "discounted-price": "$495"
+  },
+  {
+    "image": "https://www.bluefly.com/collections/men-shoes-drivers-loafers-slip-ons/products/bf-104860639-y98z?id=6890440523908",
+    "label": "Save 44%",
+    "title": "Prada Prada Spazzolato Loafers In Burgundy Patent Calf Leather -Pre Owned Condition Excellent",
+    "brand": "Prada",
+    "price": "$511.00",
+    "discounted-price": "$919"
+  }
+]
