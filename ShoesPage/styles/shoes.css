@@ -2,12 +2,8 @@
 
 body{
     margin: auto;
+    margin-top: -20px;
 
-}
-#navbar{
-    width: 100%;
-    height: 200px;
-   
 }
 #Jewelary{
     width: 100%;
@@ -24,7 +20,8 @@ body{
     gap: 20px;
     margin: auto;
     margin-bottom: 30px;
-
+    text-align: center;
+   
 }
 #product>div{
     padding: 15px;
@@ -40,15 +37,15 @@ body{
 #product>div>div>p:nth-child(2){
     color: green;
     text-decoration: line-through;
-    
+    font-size: 20px;
+    text-align: center;
 }
 #product>div>img{
     width: 200px;
     height: 280px;
 }
 #product>div>p:nth-child(2){
-    font-size: 20px;
-    text-align: center;
+   text-align: center;
 }
 #product>div>p:nth-child(3){
     font-size: 17px;
@@ -56,7 +53,6 @@ body{
 
 #product>div>p:nth-child(5){
     color: red;
-    text-align: center;
     margin-top: -15px;
     font-size: small;
 }
