@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>checkout</title>
+    <link rel="stylesheet" href="../styles/checkout.css">
+    <script src="https://kit.fontawesome.com/ce38e0eef3.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div id="first">
+        <div id="logo"><a href="index.html"><img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/BLUEFLY-LOGO-11-20.png?192420" alt=""></a></div>
+        <div id="summary"></div>
+        <div id="carte"><a href="cart.html">Cart></a><span>Information></span><span> Shipping ></span> Payment</div>
+        <div id="express">
+            <p id="ex">Express checkout</p>
+            <div id="gbtn">
+                <div class="pay"><a href=""><img src="https://www.pagetraffic.com/blog/wp-content/uploads/2022/05/about-shop-pay.jpg" alt=""></a></div>
+                <div class="pay"><a href=""><img src="http://legacyrivertrips.com/wp-content/uploads/2018/08/paypal-logo.jpg" alt=""></a></div>
+                <div class="pay"><a href=""><img src="https://corefy.com/docs/integration/payment-methods/images/buy-buttons-black-small.png" alt=""></a></div>
+            </div>    
+        </div>
+        <div id="br">
+            <div><hr/></div>
+            <div><p>OR</p></div>
+            <div><hr/></div>
+        </div>
+        <div id="con">
+            <p>Contact information</p>
+            <p>Already have an account? <a href="login.html">Log in</a></p>
+        </div>
+        <div id="form">
+            <div id="em">
+                <input id="email" type="email" placeholder="Email">
+                <p id="check"><input type="checkbox"> Email me with news and offers</p>
+            </div>
+            <p id="ship">Shipping address</p>
+            <input id="country" type="text" placeholder="Country/region">
+            <div id="name">
+                <input id="fname" type="text" placeholder="First name">
+                <input id="lname" type="text" placeholder="Last name">
+            </div>
+            <input type="text" name="address" id="address" placeholder="Address">
+            <input type="text" id="Apartment" placeholder="Apartment,suit, etc.(optional)">
+            <div id="sity">
+                <input type="text" name="" id="city" placeholder="City">
+                <select name="" id="state">
+                    <option value="">Select State</option>
+                    <option value="uttar">uttar Pradesh</option>
+                    <option value="madhya">Madhya Prdesh</option>
+                    <option value="delhi">Delhi</option>
+                    <option value="bihar">Bihar</option>
+                    <option value="himanchal">Himanchal</option>
+                    <option value="rajsthan">Rajsthan</option>
+                    <option value="udisha">Udisha</option>
+                    <option value="arunanchal">Arunanchal Pradesh</option>
+                    <option value="mumbai">Mumbai</option>
+                    <option value="Goa">Goa</option>
+                    <option value="punjab">Punjab</option>
+                </select>
+                <input id="zip" type="text" placeholder="ZIP code">
+            </div>
+            <input id="phone" type="tel" placeholder="Phone">
+           <div class="btb">
+            <button class="btt"><a href="cert.html">< Return to cart</a></button>
+            <button id="last" class="btt"><a  href="index.html">Continue to shipping</a></button>
+           </div>
+            <div id="ref">
+                <a href="./pop.html" target="popup" onclick="window.open('./pop.html','popup','width=600,height=600 margin=auto'); return false;">Refund policy</a>
+                <a href="./pop.html" target="popup" onclick="window.open('./pop.html','popup','width=600,height=600 margin=auto'); return false;">Shipping policy</a>
+                <a href="./pop.html" target="popup" onclick="window.open('./pop.html','popup','width=600,height=600 margin=auto'); return false;">Privacy policy</a>
+                <a href="./pop.html" target="popup" onclick="window.open('./pop.html','popup','width=600,height=600 margin=auto'); return false;">Term of service</a>
+            </div>
+        </div>
+    </div>
+    <div id="second">
+        <div id="insecd">
+            <div id="product"></div>
+        <hr/>
+        <div id="inp">
+            <input id="gift" type="text" name=""  placeholder="Gift card or discount code">
+            <button id="apply">Apply</button>
+        </div>
+        <hr/>
+        <div>
+            <div id="subt">
+                <p>Subtotal</p>
+                <p id="subprice">price</p>
+            </div>
+            <div id="shipping">
+                <p>Shipping ?</p>
+                <p>Calculated at nex step</p>
+            </div>
+        </div>
+        <hr/>
+        <div id="tusd">
+            <p>Total</p>
+            <p>USD $ <span id="usd">824.98</span></p>
+        </div>
+        </div>
+    </div>
+</body>
+</html>
+<script src="j.js"></script>

@@ -46,22 +46,22 @@ let display = (Data) => {
     let div4 = document.createElement("div");
     let div5 = document.createElement("div");
     let div6 = document.createElement("div");
-    div6.innerHTML = `<div class="gp"> <i class="fa-solid fa-minus"></i></div><div id='N_item'>1</div>
-    <iv><i class="fa-solid fa-plus"></i></iv>`
+    div6.innerHTML = `<div class="minus"> <i class="fa-solid fa-minus"></i></div>
+    <div type="number" class='N_item'>1</div>
+    <div class="plus"><i class="fa-solid fa-plus"></i></div>`
     div6.setAttribute("id", "gautam");
-    // div6.addEventListener("click",()=>{
-    //   console.log("hello")
-    // })
     let img = document.createElement("img");
     img.src = Data[i].image_url;
     let name = document.createElement("p");
     name.innerText = Data[i].name;
     let cost = document.createElement("p");
-    cost.innerText = `$ ${Data[i].price}`;
+    cost.innerText = ` ${Data[i].price}`;
+    cost.setAttribute("class","cost")
     let color = document.createElement("p");
     color.innerText = Data[i].color;
     let tot = document.createElement("p");
-    tot.innerText = `$ ${Data[i].price}`;
+    tot.innerText = ` ${Data[i].price}`;
+    tot.setAttribute("class","totalcost")
     let button = document.createElement("button");
     button.innerText = "REMOVE";
     button.setAttribute("class", "rbtn");
@@ -81,7 +81,7 @@ let display = (Data) => {
 
 };
 
-// ----------------------------delete item------------------------------------>
+// -----------------------------------------------------------------delete item------------------------------------------------------------------------>
 display(Data);
 let data = JSON.parse(localStorage.getItem("hello")) || [];
 function deleter(index) {
@@ -90,27 +90,67 @@ function deleter(index) {
   display(data);
 }
 
-// ---------------------------------------------increment decrement html---------------------------->
-function Inc_decr() {
-  return `
-  <div id="gp"> <i class="fa-solid fa-minus"></i></div>
-<div id='N_item'>1</div>
-<div><i class="fa-solid fa-plus"></i></div>`;
+// ------------------------------------------------------------increment items , total , subtotal js---------------------------------------------------------------------------->
+
+let subtotal=document.getElementById("subtotal")
+let dec2= document.getElementsByClassName("plus")
+let totalprice= document.getElementsByClassName("totalcost")
+let price= document.getElementsByClassName("cost")
+let items= document.getElementsByClassName("N_item")
+for(let i=0;i<dec2.length;i++){
+  dec2[i].addEventListener("click",()=>{
+    items[i].innerText=parseInt(items[i].innerText)+1
+    totalprice[i].innerText=+price[i].innerText+(+totalprice[i].innerText);
+    subtotal.innerText= subtot()
+    localStorage.setItem("total",parseInt(subtotal.innerText))
+  })
 }
 
-let dec = document.getElementsByClassName("gp")
-console
-// ----------------------------------increment decrement js-------------------------------------------->
-// let ff = document.querySelector('#gp').innerHTML;
-// ff.addEventListener("click",gautam)
-// function gautam(){
-//   console.log("hello")
-// }
-// console.log(ff)
+// <=================================================== decriment items totalprice subtotal ====================================================================================>
+let dec= document.getElementsByClassName("minus")
+
+for(let i=0;i<dec.length;i++){
+  dec[i].addEventListener("click",()=>{
+    if(items[i].innerText<=1){
+      items[i].innerText==1
+      subtotal.innerText= subtot()
+      alert("Minimum one item Require")
+    }
+    else{
+      items[i].innerText=parseInt(items[i].innerText)-1
+    totalprice[i].innerText=(+totalprice[i].innerText)-(+price[i].innerText);
+    subtotal.innerText= subtot()
+    localStorage.setItem("total",parseInt(subtotal.innerText))
+    }
+  })
+}
 
 
 
+// <============================================================total price function=====================================================================================>
+function subtot(){
+  let sum=0;
+  for(let i=0;i<totalprice.length;i++){
+    sum+=parseInt(totalprice[i].innerText)
+    // console.log(totalprice[i].innerText)
+  }
+  return sum
+}
+ subtotal.innerText=subtot()
+ 
+ 
 
+// <=========================================================update cart========================================================================================================>
+let updatecart=()=>{
+  let cartbutton= document.querySelectorAll(".sbtn")
+  cartbutton[0].addEventListener("click",()=>{
+    window.location.href="checkout.html"
+  })
+}
+updatecart()
+
+
+// <==========================================================================================import navbar, above footer, footer==========================================>
 
 import { navbar } from "../components/navbar.js";
 document.querySelector("#navbar").innerHTML = navbar();
