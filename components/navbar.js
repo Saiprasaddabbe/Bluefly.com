@@ -1,5 +1,5 @@
 let navbar = () => {
-  return `<div id="Header">
+  return `  <div id="Header">
   <div id="Fixed">
     <div id="Home_Buttons">
       <a href="#"
@@ -29,13 +29,13 @@ let navbar = () => {
       /></a>
     </div>
     <nav>
+      <p class="hoverEff" id="Women-Hover"><a href="#">CLOTHINGS</a></p>
       <p class="hoverEff" id="Shoe_Hover"><a href="#">SHOES</a></p>
       <p class="hoverEff" id="Hand_Hover">
         <a href="#">HANDBAGS & ACCESSORIES</a>
       </p>
       <p class="hoverEff" id="Design_Hover"><a href="#">DESIGNERS</a></p>
-      <p class="hoverEff" id="Women-Hover"><a href="#">WOMEN</a></p>
-      <p class="hoverEff" id="Men_Hover"><a href="#">MEN</a></p>
+      <!-- <p class="hoverEff" id="Men_Hover"><a href="#">MEN</a></p> -->
       <p class="hoverEff" id="Sunglass_Hover">
         <a href="#">SUNGLASSES</a>
       </p>

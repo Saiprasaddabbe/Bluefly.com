@@ -1,5 +1,5 @@
 let footer = () => {
-    return `<div id="line1">
+  return `<div id="line1">
     <p>ABOUT US</p>
     <p>SIGN UP AND SAVE</p>
 </div>
@@ -27,11 +27,11 @@ let footer = () => {
 <div id="line3">
     <img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/Untitled_2_.png_5_x104@2x.png?v=1620852820" alt="">
     <p>© 2022 Bluefly 1998-2020 BLUEFLY.COM OR ITS AFFILIATES ALL RIGHTS RESERVED.</p>
-</div>`
-}
+</div>`;
+};
 
 let cardAboveFooter = () => {
-    return `<div>
+  return `<div>
     <a href=""><img src="https://cdn.shopify.com/s/files/1/0248/3473/6191/files/denim_720x.jpg" alt=""></a>
     <h2>UP TO 85% OFF THE DENIM SHOP FOR HIM & HER</h2>
     <p>From Hudson Jeans, Joe's Jeans, J Brand & More</p>
@@ -48,7 +48,7 @@ let cardAboveFooter = () => {
     <h2>UP TO 90% OFF WOMEN'S MUST-HAVE ACCESSORIES</h2>
     <p>Shop Wallets, Belts, Hats, Sunglasses & More</p>
     <a href=""><p>SHOP WOMEN'S ACCESSIORIES</p></a>
-</div>`
-}
+</div>`;
+};
 
-export {cardAboveFooter, footer};
+export { cardAboveFooter, footer };
