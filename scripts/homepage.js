@@ -263,3 +263,32 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+let shopByCategory = [
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/eBncdN4QgBdpRFFevUGTwqITxL3J3Xfb-25_987d915a-1fac-4b5b-8c87-2b7475196232_360x.jpg?v=1658448066",type:"DRESSES"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/LFavn4144fAvOfL0m2giaC7cQ4GpFDDE-25_360x.jpg?v=1658065489",type:"PUMP & HEELS"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/466507BMJ1G1000-1_360x.jpg?v=1653594655",type:"HANDBAGS"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/SL-276-001-1_360x.jpg?v=1603928680",type:"SUNGLASSES"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313251584_RLLZ_1_360x.jpg?v=1658046220",type:"WOMEN'S SNEAKERS"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/536737-w2fa1-1090_201_360x.jpg?v=1656656788",type:"MEN'S SNEAKERS"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1925947_360x.jpg?v=1649967614",type:"MEN'S T-SHIRTS"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/F0bhjZabQfJyfy32kFqCOzqCIG3ZA38P-25_b9cb1820-9970-40df-99ea-fe82b47a7fee_360x.jpg?v=1658355976",type:"WOMEN'S TOPS"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/eYTrX0aYdrxVmbpE9OSjmCQlZH62BRFh-25_360x.jpg?v=1658424360",type:"WOMEN'S DENIM"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/33a1c90b-7726-492e-a9d5-2909596b811e_180x.jpg?v=1651585117",type:"JEWELRY"},];
+
+  let shopByCategoryFunction = (shopByCategory) => {
+    shopByCategory.forEach(element => {
+      let div = document.createElement("div");
+
+      let sbcImg = document.createElement("img");
+      sbcImg.src = element.sbcImg;
+
+      let sbcType = document.createElement("p");
+      sbcType.innerText = element.type;
+
+      div.append(sbcImg,sbcType);
+      document.querySelector("#shopByCategoryDiv").append(div);
+    });
+  }
+
+  shopByCategoryFunction(shopByCategory);

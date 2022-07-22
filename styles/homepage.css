@@ -255,3 +255,83 @@ margin: auto;
     height: 0.5px;
   }
 /* --=--------------------------------------------------------day-3 */
+
+/* day-4--=-------------------------------------------------------- */
+#shopByCategoryDiv{
+  width: 95%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+  grid-template-rows: repeat(2, 250px);
+  gap: 70px 30px;
+}
+#shopByCategoryDiv>div>img{
+  width: 100%;
+  height: 100%;
+  transition: 0.5s ease-out;
+}
+#shopByCategoryDiv>div:hover img{
+  box-sizing: border-box;
+  width: 105%;
+  height: 105%;
+  transition: 0.5s ease-out;
+}
+#shopByCategoryDiv>div>p{
+  text-align: center;
+}
+
+#firstCardlayout{
+  width: 97%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-template-rows: auto;
+  gap: 20px;
+}
+#firstCardlayout>div>a>img{
+  width: 100%;
+  height: 500px;
+}
+#firstCardlayout>div{
+  height: fit-content;
+}
+#firstCardlayout>div>div{
+  margin-top: -300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 20px;
+}
+#firstCardlayout>div>div>p:first-child{
+font-size: 25px;
+letter-spacing: 4px;
+font-weight: 400;
+color: white;
+font-weight: bold;
+text-align: center;
+}
+#firstCardlayout>div>div>h1{
+  font-size: 50px;
+  color: white;
+  margin-top: -5px;
+}
+#firstCardlayout>div>div>h1+p{
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-top: -5px;
+}
+#firstCardlayout>div>div>a{
+  text-decoration: none;
+  color: black;
+  border: 1px solid white;
+  background-color: white;
+  padding: 10px;
+  letter-spacing: 4px;
+  font-weight: 700;
+  font-size: 14px;
+  margin-top: -5px;
+}
+
+/* --=--------------------------------------------------------day-4 */
