@@ -1,0 +1,62 @@
+
+
+body{
+    margin: auto;
+
+}
+#navbar{
+    width: 100%;
+    height: 200px;
+   
+}
+#Jewelary{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 20% 78%;
+    gap: 30px;
+    /* border: 1px solid black; */
+}
+
+
+#product{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ;
+    gap: 20px;
+    margin: auto;
+    margin-bottom: 30px;
+
+}
+#product>div{
+    padding: 15px;
+   
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+#product>div>div{
+    display: flex;
+    gap: 90px;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+#product>div>div>p:nth-child(2){
+    color: green;
+    text-decoration: line-through;
+    
+}
+#product>div>img{
+    width: 200px;
+    height: 280px;
+}
+#product>div>p:nth-child(2){
+    font-size: 20px;
+    text-align: center;
+}
+#product>div>p:nth-child(3){
+    font-size: 17px;
+}
+
+#product>div>p:nth-child(5){
+    color: red;
+    text-align: center;
+    margin-top: -15px;
+    font-size: small;
+}
