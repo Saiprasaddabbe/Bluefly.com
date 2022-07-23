@@ -47,7 +47,7 @@ let arr = [{
     save:20
   },
   {
-    image:"	https://cdn.shopify.com/s/files/1/0248/3473/6191/p…v3hcuS7RGVS0VZojPouPYfsw-25_360x.jpg?v=1607399172",
+    image:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/2246726_180x.jpg?v=1651848885",
     title:"LA MEDUSA RUBBER MULES",
     cutprice:660,
     price:400,
@@ -271,7 +271,7 @@ let shopByCategory = [
   {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/SL-276-001-1_360x.jpg?v=1603928680",type:"SUNGLASSES"},
   {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1313251584_RLLZ_1_360x.jpg?v=1658046220",type:"WOMEN'S SNEAKERS"},
   {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/536737-w2fa1-1090_201_360x.jpg?v=1656656788",type:"MEN'S SNEAKERS"},
-  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/1925947_360x.jpg?v=1649967614",type:"MEN'S T-SHIRTS"},
+  {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/03b30a01-0d8b-4437-a9c2-559f97cf5431_360x.jpg?v=1612569531",type:"MEN'S T-SHIRTS"},
   {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/F0bhjZabQfJyfy32kFqCOzqCIG3ZA38P-25_b9cb1820-9970-40df-99ea-fe82b47a7fee_360x.jpg?v=1658355976",type:"WOMEN'S TOPS"},
   {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/eYTrX0aYdrxVmbpE9OSjmCQlZH62BRFh-25_360x.jpg?v=1658424360",type:"WOMEN'S DENIM"},
   {sbcImg:"https://cdn.shopify.com/s/files/1/0248/3473/6191/products/33a1c90b-7726-492e-a9d5-2909596b811e_180x.jpg?v=1651585117",type:"JEWELRY"},];
