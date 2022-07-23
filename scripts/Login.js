@@ -27,3 +27,4 @@ window.location.href="Register.html"
 }
 
 document.getElementById("submit").addEventListener("click",movetoregister)
+
