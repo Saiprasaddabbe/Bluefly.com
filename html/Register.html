@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register</title>
+
+    <link rel="stylesheet" href="../styles/Register.css">
+  </head>
+  <body>
+    <form id="loinform" onsubmit="register(event)">
+      <h1>CREATE ACCOUNT</h1>
+      <label for="UserFirstName">First Name</label><br />
+      <input class="input" id="UserFirstName" type="text" /><br />
+      <label for="UserLastName">Last Name</label><br />
+      <input class="input" id="UserLastName" type="text" /><br />
+      <label for="UsearEmail">Email</label><br />
+      <input class="input" id="UsearEmail" type="email" /><br />
+      <label for="UserPassword">Password</label><br />
+      <input class="input" id="UserPassword" type="password" /><br />
+      <div id="checkbox">
+        <input type="checkbox" />
+        <p>Subscribe to stay updated with new offers!</p>
+      </div>
+      <button id="submit">CREATE</button>
+    </form>
+  </body>
+</html>
+<script src="../scripts/Register.js"></script>
