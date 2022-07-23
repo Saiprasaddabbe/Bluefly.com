@@ -32,7 +32,7 @@ shoesData.forEach((elem,index)=> {
     brand.style.textAlign= "center";
     brand.style.marginLeft = "8%"
     label.innerText = elem.label;
-    disc.innerText = elem.discPrice;
+    disc.innerText = elem.cutprice;
 
    div.addEventListener("click",()=>{
     localStorage.setItem("detail",JSON.stringify(elem))

@@ -35,6 +35,7 @@
 // <-------------display cart data------------------------------->
 // localStorage.setItem("hello", JSON.stringify(Data));
 let Data = JSON.parse(localStorage.getItem("cart")) || [];
+console.log(Data)
 
 let display = (Data) => {
   let maindiv = document.querySelector("#gproduct");
@@ -52,13 +53,14 @@ let display = (Data) => {
     div6.setAttribute("id", "gautam");
     let img = document.createElement("img");
     img.src = Data[i].image;
+    img.style.width="300px"
     let name = document.createElement("p");
     name.innerText = Data[i].title;
     let cost = document.createElement("p");
     cost.innerText = ` ${Data[i].price}`;
     cost.setAttribute("class","cost")
     let color = document.createElement("del");
-    color.innerText = `Cut Price $${Data[i].cutprice}`;
+    color.innerText = `${Data[i].cutprice}`;
     let tot = document.createElement("p");
     tot.innerText = ` ${Data[i].price}`;
     tot.setAttribute("class","totalcost")

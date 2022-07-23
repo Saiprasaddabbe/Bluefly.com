@@ -7,7 +7,7 @@ document.getElementById("cardAboveFooter").innerHTML = cardAboveFooter()
 import {navbar} from "../../components/navbar.js"
 document.getElementById("navbar").innerHTML = navbar();
 
-
+let cart = [];
 let data = JSON.parse(localStorage.getItem("detail"))
 // console.log(data.title)
 
@@ -24,7 +24,8 @@ price.innerText ="Price:- "+ data.price;
 let button = document.createElement("button")
 button.innerHTML = "Add to cart"
 button.addEventListener("click",()=>{
-    localStorage.setItem("cart",JSON.stringify(data))
+    cart.push(data)
+    localStorage.setItem("cart",JSON.stringify(cart))
 })
 
 let div1 = document.createElement("div")
