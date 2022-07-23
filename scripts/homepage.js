@@ -236,8 +236,10 @@ let showData = (obj) => {
 
     document.querySelector(".modal-content").append(imgdiv,detailsdiv);
 }
+let cartdata=JSON.parse(localStorage.getItem("cart"))||[]
 let addtols = (obj) => {
-    localStorage.setItem("cart", JSON.stringify(obj));
+  cartdata.push(obj)
+    localStorage.setItem("cart", JSON.stringify(cartdata));
 }
 var modal = document.getElementById("myModal");
 
