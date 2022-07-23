@@ -83,14 +83,15 @@ nav > p > a {
 .SecNav {
   display: none;
 }
-#Show_Shoes {
+/* #Show_Shoes {
   display: block;
 }
 #Hide_Shoes {
   display: none;
-}
+} */ 
+/* commented by abhilash */
 #Fixed {
-  z-index: 2;
+  z-index: 999;
   position: fixed;
   background-color: white;
   margin-top: -165px;
