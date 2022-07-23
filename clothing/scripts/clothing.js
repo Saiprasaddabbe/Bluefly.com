@@ -2,9 +2,6 @@
 
 import {navbar} from "../../components/navbar.js"
 // document.getElementById("navbar").innerHTML = navbar();  //commented by saiprasad
- 
-import {sidebar} from "../../ShoesPage/components/sidebar.js"
-document.getElementById("sidebar").innerHTML = sidebar();
 
 import { cardAboveFooter, footer} from "../../components/combinedFooter.js"
 document.getElementById("footer").innerHTML = footer()
