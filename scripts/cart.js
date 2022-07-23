@@ -1,40 +1,40 @@
-let Data = [
-  {
-    image_url:
-      "https://content.shop4reebok.com/static/Product-EX4296/reebok_EX4296_1.jpg.plp",
-    name: "MEN'S REEBOK RUNNING ROADMAP SHOES",
-    color: "37 / Orange",
-    price: "1170",
-    strikedoffprice: "$2599",
-  },
-  {
-    image_url:
-      "https://content.shop4reebok.com/static/Product-EX3921/reebok_EX3921_1.jpg.plp",
-    name: "MEN'S REEBOK SWIM ARUBA FLIP SLIPPERS ",
-    price: 699,
-    strikedoffprice: 999,
-    color: "37 / Orange",
-  },
-  {
-    image_url:
-      "https://content.shop4reebok.com/static/Product-EX4160/reebok_EX4160_1.jpg.plp",
-    name: " MEN'S REEBOK RUNNING AUSTIN SHOES",
-    price: 945,
-    strikedoffprice: 2099,
-    color: "37 / Orange",
-  },
-  {
-    image_url:
-      "https://content.shop4reebok.com/static/Product-FV8798/MEN_SWIM_SLIPPERS_FV8798_1.jpg.plp",
-    name: "MEN'S REEBOK SWIM AVENGER FLIP LP SLIPPERS",
-    price: 399,
-    strikedoffprice: 799,
-    color: "37 / Orange",
-  },
-];
+// let Data = [
+//   {
+//     image_url:
+//       "https://content.shop4reebok.com/static/Product-EX4296/reebok_EX4296_1.jpg.plp",
+//     name: "MEN'S REEBOK RUNNING ROADMAP SHOES",
+//     color: "37 / Orange",
+//     price: "1170",
+//     strikedoffprice: "$2599",
+//   },
+//   {
+//     image_url:
+//       "https://content.shop4reebok.com/static/Product-EX3921/reebok_EX3921_1.jpg.plp",
+//     name: "MEN'S REEBOK SWIM ARUBA FLIP SLIPPERS ",
+//     price: 699,
+//     strikedoffprice: 999,
+//     color: "37 / Orange",
+//   },
+//   {
+//     image_url:
+//       "https://content.shop4reebok.com/static/Product-EX4160/reebok_EX4160_1.jpg.plp",
+//     name: " MEN'S REEBOK RUNNING AUSTIN SHOES",
+//     price: 945,
+//     strikedoffprice: 2099,
+//     color: "37 / Orange",
+//   },
+//   {
+//     image_url:
+//       "https://content.shop4reebok.com/static/Product-FV8798/MEN_SWIM_SLIPPERS_FV8798_1.jpg.plp",
+//     name: "MEN'S REEBOK SWIM AVENGER FLIP LP SLIPPERS",
+//     price: 399,
+//     strikedoffprice: 799,
+//     color: "37 / Orange",
+//   },
+// ];
 // <-------------display cart data------------------------------->
-localStorage.setItem("hello", JSON.stringify(Data));
-let CartData = JSON.parse(localStorage.getItem("cart")) || [];
+// localStorage.setItem("hello", JSON.stringify(Data));
+let Data = JSON.parse(localStorage.getItem("cart")) || [];
 
 let display = (Data) => {
   let maindiv = document.querySelector("#gproduct");
@@ -51,14 +51,14 @@ let display = (Data) => {
     <div class="plus"><i class="fa-solid fa-plus"></i></div>`
     div6.setAttribute("id", "gautam");
     let img = document.createElement("img");
-    img.src = Data[i].image_url;
+    img.src = Data[i].image;
     let name = document.createElement("p");
-    name.innerText = Data[i].name;
+    name.innerText = Data[i].title;
     let cost = document.createElement("p");
     cost.innerText = ` ${Data[i].price}`;
     cost.setAttribute("class","cost")
-    let color = document.createElement("p");
-    color.innerText = Data[i].color;
+    let color = document.createElement("del");
+    color.innerText = `Cut Price $${Data[i].cutprice}`;
     let tot = document.createElement("p");
     tot.innerText = ` ${Data[i].price}`;
     tot.setAttribute("class","totalcost")
@@ -83,11 +83,13 @@ let display = (Data) => {
 
 // -----------------------------------------------------------------delete item------------------------------------------------------------------------>
 display(Data);
-let data = JSON.parse(localStorage.getItem("hello")) || [];
+// let data = JSON.parse(localStorage.getItem("cart")) || [];
 function deleter(index) {
-  data.splice(index, 1);
-  localStorage.setItem("hello", JSON.stringify(data));
-  display(data);
+  Data.splice(index, 1);
+  localStorage.setItem("cart", JSON.stringify(Data));
+  display(Data);
+  subtotal.innerText= subtot();
+  localStorage.setItem("total",parseInt(subtotal.innerText))
 }
 
 // ------------------------------------------------------------increment items , total , subtotal js---------------------------------------------------------------------------->
@@ -136,7 +138,7 @@ function subtot(){
   }
   return sum
 }
- subtotal.innerText=subtot()
+ subtotal.innerText=`${subtot()}`
  
  
 
@@ -147,7 +149,7 @@ let updatecart=()=>{
     window.location.href="checkout.html"
   })
 }
-updatecart()
+// updatecart()
 
 
 // <==========================================================================================import navbar, above footer, footer==========================================>

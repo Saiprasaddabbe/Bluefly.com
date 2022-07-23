@@ -63,14 +63,14 @@
             </div>
             <input id="phone" type="tel" placeholder="Phone">
            <div class="btb">
-            <button class="btt"><a href="cert.html">< Return to cart</a></button>
+            <button class="btt"><a href="../html/cart.html">< Return to cart</a></button>
             <button id="last" class="btt"><a  href="index.html">Continue to shipping</a></button>
            </div>
             <div id="ref">
                 <a href="./pop.html" target="popup" onclick="window.open('./pop.html','popup','width=600,height=600 margin=auto'); return false;">Refund policy</a>
-                <a href="./pop.html" target="popup" onclick="window.open('./pop.html','popup','width=600,height=600 margin=auto'); return false;">Shipping policy</a>
-                <a href="./pop.html" target="popup" onclick="window.open('./pop.html','popup','width=600,height=600 margin=auto'); return false;">Privacy policy</a>
-                <a href="./pop.html" target="popup" onclick="window.open('./pop.html','popup','width=600,height=600 margin=auto'); return false;">Term of service</a>
+                <a href="./pop.html" target="popup" onclick="window.open('./shipping.html','popup','width=600,height=600 margin=auto'); return false;">Shipping policy</a>
+                <a href="./pop.html" target="popup" onclick="window.open('./privacy.html','popup','width=600,height=600 margin=auto'); return false;">Privacy policy</a>
+                <a href="./pop.html" target="popup" onclick="window.open('./term.html','popup','width=600,height=600 margin=auto'); return false;">Term of service</a>
             </div>
         </div>
     </div>
@@ -86,7 +86,7 @@
         <div>
             <div id="subt">
                 <p>Subtotal</p>
-                <p id="subprice">price</p>
+                <p id="subprice">0</p>
             </div>
             <div id="shipping">
                 <p>Shipping ?</p>
@@ -96,10 +96,11 @@
         <hr/>
         <div id="tusd">
             <p>Total</p>
-            <p>USD $ <span id="usd">824.98</span></p>
+            <p>USD $ <span id="usd">0</span></p>
         </div>
+        <p id="alert"></p>
         </div>
     </div>
 </body>
 </html>
-<script src="j.js"></script>
+<script src="../scripts/checkout.js"></script>
