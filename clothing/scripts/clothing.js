@@ -1,7 +1,7 @@
 
 
-import {navbar} from "../../components/navbar.js"
-document.getElementById("navbar").innerHTML = navbar();
+// import {navbar} from "../../components/navbar.js"
+// document.getElementById("navbar").innerHTML = navbar();  //commented by saiprasad
  
 import {sidebar} from "../../ShoesPage/components/sidebar.js"
 document.getElementById("sidebar").innerHTML = sidebar();

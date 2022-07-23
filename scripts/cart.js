@@ -152,8 +152,8 @@ updatecart()
 
 // <==========================================================================================import navbar, above footer, footer==========================================>
 
-import { navbar } from "../components/navbar.js";
-document.querySelector("#navbar").innerHTML = navbar();
+// import { navbar } from "../components/navbar.js";
+// document.querySelector("#navbar").innerHTML = navbar(); //commented by saiprasad
 import { cardAboveFooter, footer } from "../components/combinedFooter.js";
 document.querySelector("#footer").innerHTML = footer();
 document.querySelector("#cardAboveFooter").innerHTML = cardAboveFooter();
