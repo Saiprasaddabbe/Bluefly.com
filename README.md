@@ -10,7 +10,7 @@
 <li>Vijay Yadav</li>
 </ol>
 
-## Tech Satck
+## Tech Stack
 
 <ol>
 <li>HTML5</li>
