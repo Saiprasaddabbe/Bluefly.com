@@ -10,8 +10,6 @@ document.getElementById("navbar").innerHTML = navbar()
 import { sidebar } from "../components/sidebar.js";
 document.getElementById("sidebar").innerHTML = sidebar()
 
-
-
    
 let container = document.getElementById("product")
 shoesData.forEach((elem,index)=> {
