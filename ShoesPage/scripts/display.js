@@ -36,3 +36,4 @@ div1.append(image);
 let div2 = document.createElement("div")
 div2.append(brand,title, price,button)
 cont.append(div1,div2)
+
