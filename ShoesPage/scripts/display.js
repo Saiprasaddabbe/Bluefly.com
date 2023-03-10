@@ -10,6 +10,7 @@ document.getElementById("navbar").innerHTML = navbar();
 
 let cart = [];
 let data = JSON.parse(localStorage.getItem("detail"))
+
 // console.log(data.title)
 
 let cont = document.getElementById("display")
