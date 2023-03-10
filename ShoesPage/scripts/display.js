@@ -28,6 +28,7 @@ button.addEventListener("click",()=>{
     localStorage.setItem("cart",JSON.stringify(cart))
 })
 
+
 let div1 = document.createElement("div")
 div1.append(image);
 
