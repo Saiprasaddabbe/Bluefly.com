@@ -1,5 +1,3 @@
-
-
 import {cardAboveFooter,footer} from "../../components/combinedFooter.js"
 document.getElementById("cardAboveFooter").innerHTML = cardAboveFooter();
 document.getElementById("footer").innerHTML = footer();
