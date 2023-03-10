@@ -46,4 +46,3 @@ shoesData.forEach((elem,index)=> {
     container.append(div)
 })
  
-
