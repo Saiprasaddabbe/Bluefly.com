@@ -1,5 +1,5 @@
 
-** Bluefly.com offers an e-commerce platform that sells designer apparel and accessories, household products and accessories at discounted prices. This is a collaborative project did in construct week at masai school with 5 team members.
+**Bluefly.com offers an e-commerce platform that sells designer apparel and accessories, household products and accessories at discounted prices. This is a collaborative project did in construct week at masai school with 5 team members.
 
 ## list Of Team members
 <ol>
